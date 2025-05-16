@@ -7,9 +7,13 @@ To write a printQueue C function of the given graph that is to be traversed in t
 
 ## Algorithm
 1.Check if the queue is empty using isEmpty(q). If true, print "Queue is empty".
+
 2.If not empty, print "Queue contains ".
+
 3.Initialize a loop variable i to q->front.
+
 4.Use a for loop to iterate from q->front to q->rear, printing each item in q->items[i].
+
 5.nd the loop and function after printing all items.
 
 ## Program:
