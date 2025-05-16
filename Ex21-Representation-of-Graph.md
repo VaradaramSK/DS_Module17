@@ -57,6 +57,7 @@ printAdjMatrix(adjMatrix);
 ```
 
 ## Output:
+![image](https://github.com/user-attachments/assets/9cafac08-59cc-412e-8e7d-b5b77ff8023a)
 
 
 
